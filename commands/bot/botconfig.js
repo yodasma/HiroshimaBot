@@ -189,7 +189,7 @@ Actuel: ${secur(db.get(`antijoinbot_${client.user.id}`))}
 
                                     client.user.setActivity(collected2.first().content, {
                                         type: type,
-                                        url: "https://github.com/4wip"
+                                        url: "https://github.com/yodas"
                                     }).then(async (a) => {
                                         updateEmbed(msg, client)
                                     })
