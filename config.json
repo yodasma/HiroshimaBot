@@ -1,13 +1,13 @@
 {
-    "color": "#67d686",
-    "prefix": "&",
-    "name": "💳・Fais ton argent !",
+    "color": "#20A3B8",
+    "prefix": "+",
+    "name": "FlashLife",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "1164678741717430313", 
-        "",
+        "1234570966521217135", 
+        "705018716412444723",
         ""
     ]
 }
